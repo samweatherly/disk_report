@@ -1,1 +1,1 @@
-Pass a directory as an argument. No argument defaults to /home.\
+Pass a directory as an argument. No argument defaults to /home.
